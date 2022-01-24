@@ -13,6 +13,12 @@
 		3B3360D3279E848F008B0CC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360D1279E848F008B0CC6 /* Main.storyboard */; };
 		3B3360D5279E8490008B0CC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360D4279E8490008B0CC6 /* Assets.xcassets */; };
 		3B3360D8279E8490008B0CC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360D6279E8490008B0CC6 /* LaunchScreen.storyboard */; };
+		3B3360E5279E8563008B0CC6 /* 04.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360DF279E8563008B0CC6 /* 04.png */; };
+		3B3360E6279E8563008B0CC6 /* 03.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360E0279E8563008B0CC6 /* 03.png */; };
+		3B3360E7279E8563008B0CC6 /* 01.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360E1279E8563008B0CC6 /* 01.png */; };
+		3B3360E8279E8563008B0CC6 /* 02.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360E2279E8563008B0CC6 /* 02.png */; };
+		3B3360E9279E8563008B0CC6 /* 05.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360E3279E8563008B0CC6 /* 05.png */; };
+		3B3360EA279E8563008B0CC6 /* 06.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3360E4279E8563008B0CC6 /* 06.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		3B3360D4279E8490008B0CC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B3360D7279E8490008B0CC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B3360D9279E8490008B0CC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B3360DF279E8563008B0CC6 /* 04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 04.png; path = "../../../../../Downloads/example-master/9장/본문실습이미지/04.png"; sourceTree = "<group>"; };
+		3B3360E0279E8563008B0CC6 /* 03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 03.png; path = "../../../../../Downloads/example-master/9장/본문실습이미지/03.png"; sourceTree = "<group>"; };
+		3B3360E1279E8563008B0CC6 /* 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 01.png; path = "../../../../../Downloads/example-master/9장/본문실습이미지/01.png"; sourceTree = "<group>"; };
+		3B3360E2279E8563008B0CC6 /* 02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 02.png; path = "../../../../../Downloads/example-master/9장/본문실습이미지/02.png"; sourceTree = "<group>"; };
+		3B3360E3279E8563008B0CC6 /* 05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 05.png; path = "../../../../../Downloads/example-master/9장/본문실습이미지/05.png"; sourceTree = "<group>"; };
+		3B3360E4279E8563008B0CC6 /* 06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 06.png; path = "../../../../../Downloads/example-master/9장/본문실습이미지/06.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +71,12 @@
 				3B3360CB279E848F008B0CC6 /* AppDelegate.swift */,
 				3B3360CD279E848F008B0CC6 /* SceneDelegate.swift */,
 				3B3360CF279E848F008B0CC6 /* ViewController.swift */,
+				3B3360E1279E8563008B0CC6 /* 01.png */,
+				3B3360E2279E8563008B0CC6 /* 02.png */,
+				3B3360E0279E8563008B0CC6 /* 03.png */,
+				3B3360DF279E8563008B0CC6 /* 04.png */,
+				3B3360E3279E8563008B0CC6 /* 05.png */,
+				3B3360E4279E8563008B0CC6 /* 06.png */,
 				3B3360D1279E848F008B0CC6 /* Main.storyboard */,
 				3B3360D4279E8490008B0CC6 /* Assets.xcassets */,
 				3B3360D6279E8490008B0CC6 /* LaunchScreen.storyboard */,
@@ -125,8 +143,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B3360E7279E8563008B0CC6 /* 01.png in Resources */,
+				3B3360E6279E8563008B0CC6 /* 03.png in Resources */,
 				3B3360D8279E8490008B0CC6 /* LaunchScreen.storyboard in Resources */,
+				3B3360E8279E8563008B0CC6 /* 02.png in Resources */,
+				3B3360EA279E8563008B0CC6 /* 06.png in Resources */,
+				3B3360E5279E8563008B0CC6 /* 04.png in Resources */,
 				3B3360D5279E8490008B0CC6 /* Assets.xcassets in Resources */,
+				3B3360E9279E8563008B0CC6 /* 05.png in Resources */,
 				3B3360D3279E848F008B0CC6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
