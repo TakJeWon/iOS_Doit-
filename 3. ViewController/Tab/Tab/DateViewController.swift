@@ -7,12 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class DateViewController: UIViewController {
 
     @IBOutlet weak var currentTimeLabel: UILabel!
     @IBOutlet weak var pickerTimeLabel: UILabel!
     
-    let timeSelector: Selector = #selector(ViewController.updateTime)
+    let timeSelector: Selector = #selector(DateViewController.updateTime)
     let interval = 1.0
     var count = 0
     
