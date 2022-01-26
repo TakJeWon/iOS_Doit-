@@ -48,7 +48,8 @@ extension ViewController: UIPickerViewDelegate, UIPickerViewDataSource{
 //    }
     
     func pickerView(_ pickerView: UIPickerView, viewForRow row: Int, forComponent component: Int, reusing view: UIView?) -> UIView {
-        let imageView = UIImageView(image: imageArray[row])
+        
+        
         imageView.frame = CGRect(x: 0, y: 0, width: 100, height: 150)
         
         return imageView
